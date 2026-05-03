@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AI-First CRM – HCP Module (Log Interaction Screen)
 
 A full-stack CRM application for pharmaceutical field representatives to log interactions with Healthcare Professionals (HCPs) via a structured form or a conversational AI chat interface.
